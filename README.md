@@ -4,11 +4,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bekiryavuz&label=Profile%20views&color=0e75b6&style=flat" alt="bekiryavuz" /> </p>
 
 - 🌱 I’m currently learning **Amazon Lambda & Node.js & TypeScript**
-
 - 💬 Ask me about **Django, Selenium, Node.js**
-
 - 🥅 2022 Goals **Contribute to Open Source projects**
-
 - 📫 How to reach me **contact@bekiryavuz.com**
 
 <h3 align="left">Connect with me:</h3>
