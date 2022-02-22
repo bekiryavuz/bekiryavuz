@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Node.js & MongoDB & Vue.js**
 - 💬 Ask me about **Django, Selenium, Node.js**
 - 🥅 2022 Goals **Contribute to Open Source projects**
-- 📫 How to reach me **contact@bekiryavuz.com**
+- 📫 How to reach me **bekir@bekiryavuz.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
