@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bekiryavuz&label=Profile%20views&color=0e75b6&style=flat" alt="bekiryavuz" /> </p>
 
-- 🌱 I’m currently learning **Node.js & MongoDB & Vue.js**
+- 🌱 I’m currently learning **Node.js & MongoDB **
 - 💬 Ask me about **Django, Selenium, Node.js**
 - 🥅 2022 Goals **Contribute to Open Source projects**
 - 📫 How to reach me **bekir@bekiryavuz.com**
