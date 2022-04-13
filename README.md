@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bekiryavuz&label=Profile%20views&color=0e75b6&style=flat" alt="bekiryavuz" /> </p>
 <h5 align="center">
-- 🌱 I’m currently learning Node.js & TypeScript & AWS </h5>
+- 🌱 I’m currently learning React & TypeScript & AWS </h5>
 <h5 align="center">- 💬 Ask me about Django, Selenium, Node.js </h5>
 <h5 align="center">- 🥅 2022 Goals Contribute to Open Source projects </h5>
 <h5 align="center">- 📫 How to reach me bekir@bekiryavuz.com</h5>
