@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bekiryavuz&label=Profile%20views&color=0e75b6&style=flat" alt="bekiryavuz" /> </p>
 <h5 align="center">
 - 🌱 I’m currently working on Node & TypeScript & AWS </h5>
-<h5 align="center">- 📫 How to reach me bekir@bekiryavuz.com</h5>
+<h5 align="center">- 📫 How to reach me hi@bekiryavuz.com</h5>
 
 
 <h3 align="center">Connect with me:</h3>
